@@ -1,7 +1,8 @@
-# ctds-senai-ex1-html-css
-Exercícios para colocar em prática os conteúdos já visto em HTML e CSS
+# Atividade do Curso Técnico de Desenvovimento de Sistemas
+## Módulo HTML e CSS
+### Exercício 1
 
-# Orientações
+## Orientações
 <h2>Tipo de fonte</h2>
 <p>Externa: Poppins</p>
 
@@ -51,7 +52,7 @@ Exercícios para colocar em prática os conteúdos já visto em HTML e CSS
 <h2>.card:hover</h2>
 <p>transform: scale(1.03);</p>
 
-
+## Média Querie
 <h2>Media querie</h2>
 <p>@media (max-width: 600px) {</p>
    <p>.card {</p>
